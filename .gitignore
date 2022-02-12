@@ -1,0 +1,11 @@
+# Python compilation files
+__pycache__
+*.pyc
+
+# Ignorar custom IDE folders
+*.vscode
+*.mypy_cache
+
+# data file
+quotes*.json
+
